@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is a homepage of IMMV (Intelligent Manufacture and Machine Vision) research group. 👋
 
 <!--
 **jackyzengl/jackyzengl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
